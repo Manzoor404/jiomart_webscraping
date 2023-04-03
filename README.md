@@ -14,5 +14,5 @@ requests
 re
 
 Data Obtained:
-vVgetables name
+Vegetables name
 Vegetables Price
